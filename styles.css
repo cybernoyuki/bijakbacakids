@@ -1373,7 +1373,7 @@ ul {
   }
 
   .nav-cta {
-    display: block;
+    display: none;
   }
 
   .hamburger {
